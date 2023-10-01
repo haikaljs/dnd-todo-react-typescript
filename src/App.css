@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;800&display=swap");
 
 .App {
   width: 100vw;
@@ -8,6 +8,7 @@
   align-items: center;
   background-color: #f74ed8;
   font-family: "Poppins", cursive;
+  font-weight: 800;
 }
 
 .heading {
